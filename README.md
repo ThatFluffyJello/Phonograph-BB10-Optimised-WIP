@@ -1,7 +1,9 @@
 # Phonograph
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/kabouzeid/Phonograph/blob/master/LICENSE.txt)
 
-**A material designed local music player for Android.**
+**A material designed local music player for Android.
+Forked here as a placeholder for when I decide to build a BlackberryOS 10 optimised fork.
+This fork will be an unplanned WIP project.**
 
 ![Screenshots](./art/art.jpg?raw=true)
 
